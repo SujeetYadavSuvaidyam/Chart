@@ -1,0 +1,30 @@
+{
+  "sels": [
+    {
+      "year": 2018,
+      "amount": 2000,
+      "colorcode": "green"
+    },
+    {
+      "year": 2019,
+      "amount": 3000,
+      "colorcode": "red"
+    },
+    {
+      "year": 2020,
+      "amount": 4000,
+      "colorcode": "blue"
+    },
+    {
+      "year": 2021,
+      "amount": 5000,
+      "colorcode": "yellow"
+    },
+    {
+      "year": 2022,
+      "amount": 6000,
+      "colorcode": "pink"
+    }
+  ]
+  
+}
